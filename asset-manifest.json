@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/learnreact/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/learnreact/static/js/main.b83329bf.chunk.js",
-    "main.js.map": "/learnreact/static/js/main.b83329bf.chunk.js.map",
+    "main.js": "/learnreact/static/js/main.36e306d9.chunk.js",
+    "main.js.map": "/learnreact/static/js/main.36e306d9.chunk.js.map",
     "runtime-main.js": "/learnreact/static/js/runtime-main.d1bfa577.js",
     "runtime-main.js.map": "/learnreact/static/js/runtime-main.d1bfa577.js.map",
-    "static/js/2.c098387d.chunk.js": "/learnreact/static/js/2.c098387d.chunk.js",
-    "static/js/2.c098387d.chunk.js.map": "/learnreact/static/js/2.c098387d.chunk.js.map",
+    "static/js/2.7c0d0d44.chunk.js": "/learnreact/static/js/2.7c0d0d44.chunk.js",
+    "static/js/2.7c0d0d44.chunk.js.map": "/learnreact/static/js/2.7c0d0d44.chunk.js.map",
     "static/js/3.cbda8df8.chunk.js": "/learnreact/static/js/3.cbda8df8.chunk.js",
     "static/js/3.cbda8df8.chunk.js.map": "/learnreact/static/js/3.cbda8df8.chunk.js.map",
     "index.html": "/learnreact/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/learnreact/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c098387d.chunk.js.LICENSE.txt": "/learnreact/static/js/2.c098387d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/learnreact/static/media/logo.6ce24c58.svg"
+    "static/js/2.7c0d0d44.chunk.js.LICENSE.txt": "/learnreact/static/js/2.7c0d0d44.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1bfa577.js",
-    "static/js/2.c098387d.chunk.js",
+    "static/js/2.7c0d0d44.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.b83329bf.chunk.js"
+    "static/js/main.36e306d9.chunk.js"
   ]
 }
