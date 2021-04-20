@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hemadwivedi/learnreact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Hemadwivedi/learnreact/static/js/main.b83329bf.chunk.js",
+    "main.js.map": "/Hemadwivedi/learnreact/static/js/main.b83329bf.chunk.js.map",
+    "runtime-main.js": "/Hemadwivedi/learnreact/static/js/runtime-main.4bf7eb83.js",
+    "runtime-main.js.map": "/Hemadwivedi/learnreact/static/js/runtime-main.4bf7eb83.js.map",
+    "static/js/2.c098387d.chunk.js": "/Hemadwivedi/learnreact/static/js/2.c098387d.chunk.js",
+    "static/js/2.c098387d.chunk.js.map": "/Hemadwivedi/learnreact/static/js/2.c098387d.chunk.js.map",
+    "static/js/3.cbda8df8.chunk.js": "/Hemadwivedi/learnreact/static/js/3.cbda8df8.chunk.js",
+    "static/js/3.cbda8df8.chunk.js.map": "/Hemadwivedi/learnreact/static/js/3.cbda8df8.chunk.js.map",
+    "index.html": "/Hemadwivedi/learnreact/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Hemadwivedi/learnreact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c098387d.chunk.js.LICENSE.txt": "/Hemadwivedi/learnreact/static/js/2.c098387d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Hemadwivedi/learnreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf7eb83.js",
+    "static/js/2.c098387d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b83329bf.chunk.js"
+  ]
+}
